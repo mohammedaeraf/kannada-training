@@ -212,9 +212,9 @@ Imagine you are buying fruit. Say these sentences aloud:
 
 ## 📚 Course Navigation
 
-- [← Day 2: Everyday Expressions](DAY-02-Everyday-Expressions.md)
-- [Course Home](README.md)
-- [Day 4: People & Family →](DAY-04-People-and-Family.md)
+- [← Day 2: Everyday Expressions](day02-everyday-expressions.md)
+- [Course Home](readme.md)
+- [Day 4: People & Family →](day04-people-family.md)
 
 *Ondu dina, ondu paatha — Kannada kaliyona!* 🇮🇳
 
