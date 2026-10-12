@@ -23,11 +23,11 @@ By the end of 30 days, we aim to:
 |---|---|---|
 | 01 | Greetings & Introduction | [Open Day 1](day01-greetings.md) |
 | 02 | Yes, No & Everyday Expressions | [Open Day 2](day02-everyday-expressions.md) |
-| 03 | Numbers 1–20 | [Open Day 3](DAY-03-Numbers-1-to-20.md) |
-| 04 | People & Family | [Open Day 4](DAY-04-People-and-Family.md) |
-| 05 | Basic Questions | [Open Day 5](DAY-05-Basic-Questions.md) |
-| 06 | Useful Everyday Verbs | [Open Day 6](DAY-06-Everyday-Verbs.md) |
-| 07 | Week 1 Revision & Speaking Test | [Open Day 7](DAY-07-Revision-and-Test.md) |
+| 03 | Numbers 1–20 | [Open Day 3](day03-numbers.md) |
+| 04 | People & Family | [Open Day 4](day04-people-family.md) |
+| 05 | Basic Questions | [Open Day 5](day05-basic-questions.md) |
+| 06 | Useful Everyday Verbs | [Open Day 6](day06-everyday-verbs.md) |
+| 07 | Week 1 Revision & Speaking Test | [Open Day 7](day07-revision-and-test.md) |
 
 *More lessons will be added as we progress.*
 
