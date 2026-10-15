@@ -1,4 +1,5 @@
 # 🇮🇳 Spoken Kannada for Beginners
+
 ## A 30-Day Kannada Speaking Challenge
 
 Welcome to our family Kannada-learning journey!
@@ -19,17 +20,17 @@ By the end of 30 days, we aim to:
 
 ## 📅 Daily Lessons
 
-| Day | Topic | Lesson |
-|---|---|---|
-| 01 | Greetings & Introduction | [Open Day 1](day01-greetings.md) |
-| 02 | Yes, No & Everyday Expressions | [Open Day 2](day02-everyday-expressions.md) |
-| 03 | Numbers 1–20 | [Open Day 3](day03-numbers.md) |
-| 04 | People & Family | [Open Day 4](day04-people-family.md) |
-| 05 | Basic Questions | [Open Day 5](day05-basic-questions.md) |
-| 06 | Useful Everyday Verbs | [Open Day 6](day06-everyday-verbs.md) |
-| 07 | Week 1 Revision & Speaking Test | [Open Day 7](day07-revision-and-test.md) |
+| Day | Topic                           | Lesson                                      |
+| --- | ------------------------------- | ------------------------------------------- |
+| 01  | Greetings & Introduction        | [Open Day 1](day01-greetings.md)            |
+| 02  | Yes, No & Everyday Expressions  | [Open Day 2](day02-everyday-expressions.md) |
+| 03  | Numbers 1–20                    | [Open Day 3](day03-numbers.md)              |
+| 04  | People & Family                 | [Open Day 4](day04-people-family.md)        |
+| 05  | Basic Questions                 | [Open Day 5](day05-basic-questions.md)      |
+| 06  | Useful Everyday Verbs           | [Open Day 6](day06-everyday-verbs.md)       |
+| 07  | Week 1 Revision & Speaking Test | [Open Day 7](day07-revision1.md)            |
 
-*More lessons will be added as we progress.*
+_More lessons will be added as we progress._
 
 ## 🕒 How to Learn
 
@@ -55,6 +56,6 @@ Try to spend 15–20 minutes every day.
 
 ನಮಸ್ಕಾರ! ಕಲಿಯೋಣ, ಮಾತನಾಡೋಣ!
 
-*Namaskara! Kaliyona, maatadona!*
+_Namaskara! Kaliyona, maatadona!_
 
 Hello! Let's learn and speak!
