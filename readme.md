@@ -35,7 +35,7 @@ By the end of 30 days, we aim to:
 | 11  | Home and Household              | [Open Day 11](day11-home-and-household.md)  |
 | 12  | Time and Daily                  | [Open Day 12](day12-time-and-routine.md)    |
 | 13  | Directions                      | [Open Day 13](day13-directions.md)          |
-| 14  | Week 2 Conversation             | [Open Day 14](day14-week2-revision.md)      |
+| 14  | Week 2 Revision                 | [Open Day 14](day14-week2-revision.md)      |
 
 _More lessons will be added as we progress._
 
