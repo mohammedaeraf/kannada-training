@@ -215,4 +215,4 @@ Have a **three-minute family conversation** using at least five Kannada sentence
 
 - [⬅️ Day 13 – Directions](day13-directions.md)
 - [🏠 Course Home](readme.md)
-- [➡️ Day 15 – Auto & Taxi Conversations](day15-auto-taxi-conversation.md)
+- [➡️ Day 15 – Auto & Taxi Conversations](day15-auto-taxi.md)

@@ -197,4 +197,4 @@ For the next 10 minutes, try to use Kannada for simple household requests, such 
 
 - [⬅️ Day 10 – Money & Prices](day10-money-and-prices.md)
 - [🏠 Course Home](readme.md)
-- [➡️ Day 12 – Time & Daily Routine](day12-time-and-daily-routine.md)
+- [➡️ Day 12 – Time & Daily Routine](day12-time-and-routine.md)

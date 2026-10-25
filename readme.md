@@ -29,6 +29,13 @@ By the end of 30 days, we aim to:
 | 05  | Basic Questions                 | [Open Day 5](day05-basic-questions.md)      |
 | 06  | Useful Everyday Verbs           | [Open Day 6](day06-everyday-verbs.md)       |
 | 07  | Week 1 Revision & Speaking Test | [Open Day 7](day07-revision1.md)            |
+| 08  | Food and Drinks                 | [Open Day 8](day08-food-and-drinks.md)      |
+| 09  | Shopping                        | [Open Day 9](day09-shopping.md)             |
+| 10  | Money and Prices                | [Open Day 10](day10-money-and-prices.md)    |
+| 11  | Home and Household              | [Open Day 11](day11-home-and-household.md)  |
+| 12  | Time and Daily                  | [Open Day 12](day12-time-and-routine.md)    |
+| 13  | Directions                      | [Open Day 13](day13-directions.md)          |
+| 14  | Week 2 Conversation             | [Open Day 14](day14-week2-revision.md)      |
 
 _More lessons will be added as we progress._
 

@@ -195,6 +195,6 @@ Imagine a visitor asks you how to reach a nearby shop. Explain the directions us
 
 ### 📚 Course Navigation
 
-- [⬅️ Day 12 – Time & Daily Routine](day12-time-and-daily-routine.md)
+- [⬅️ Day 12 – Time & Daily Routine](day12-time-and-routine.md)
 - [🏠 Course Home](readme.md)
-- [➡️ Day 14 – Week 2 Conversation Practice](day14-week-2-conversation-practice.md)
+- [➡️ Day 14 – Week 2 Conversation Practice](day14-week-2-revision.md)
