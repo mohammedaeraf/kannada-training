@@ -47,7 +47,7 @@ By the end of this lesson, you will be able to:
 |---|---|---|
 | ಈಗ ಸಮಯ ಎಷ್ಟು? | Eega samaya eshtu? | What time is it now? |
 | ಈಗ ಹತ್ತು ಗಂಟೆ. | Eega hattu gante. | It is ten o'clock now. |
-| ನಾನು ಬೆಳಗ್ಗೆ ಆರು ಗಂಟೆಗೆ ಏಳುತ್ತೇನೆ. | Naanu belagge aaru gantege eluttೇನೆ. | I wake up at six in the morning. |
+| ನಾನು ಬೆಳಗ್ಗೆ ಆರು ಗಂಟೆಗೆ ಏಳುತ್ತೇನೆ. | Naanu belagge aaru gantege eluttene. | I wake up at six in the morning. |
 | ನಾನು ಬೆಳಗ್ಗೆ ವಾಕಿಂಗ್‌ಗೆ ಹೋಗುತ್ತೇನೆ. | Naanu belagge walking-ge hoguttene. | I go for a walk in the morning. |
 | ನಾನು ಸ್ನಾನ ಮಾಡುತ್ತೇನೆ. | Naanu snaana maaduttene. | I take a bath. |
 | ನಾನು ಕೆಲಸಕ್ಕೆ ಹೋಗುತ್ತೇನೆ. | Naanu kelasakke hoguttene. | I go to work. |
