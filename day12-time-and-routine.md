@@ -118,7 +118,7 @@ Examples:
 **Person A:** Neevu belagge eshtu gantege eluttiri?  
 *What time do you wake up in the morning?*
 
-**Person B:** Naanu aaru gantege eluttೇನೆ.  
+**Person B:** Naanu aaru gantege eluttiri.  
 *I wake up at six o'clock.*
 
 **Person A:** Walking-ge hoguttira?  
