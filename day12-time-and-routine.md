@@ -150,7 +150,7 @@ Try to answer using your own daily schedule.
 
 Example:
 
-*Naanu belagge elu gantege eluttೇನೆ. Naanu entu gantege tindi tinnuttೇನೆ. Naanu raatri hattu gantege malaguttene.*
+*Naanu belagge elu gantege eluttene. Naanu entu gantege tindi tinnuttene. Naanu raatri hattu gantege malaguttene.*
 
 *I wake up at seven in the morning. I eat breakfast at eight. I go to bed at ten at night.*
 
@@ -185,7 +185,7 @@ C. I work.
 2. A — What time is it now?
 3. C — I work.
 4. I go to bed at ten o'clock at night.
-5. Naanu aaru gantege eluttೇನೆ.
+5. Naanu aaru gantege eluttene.
 
 </details>
 
