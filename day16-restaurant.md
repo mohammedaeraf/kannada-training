@@ -219,4 +219,4 @@ Practise saying these five sentences aloud:
 
 - [← Day 15 – Auto & Taxi Conversations](day15-auto-taxi.md)
 - [Course Home – Spoken Kannada](readme.md)
-- Day 17 – Vegetable & Fruit Shopping →
+- [← Day 17 –Vegetable and Fruit Shopping](day17-veg-fruit-shopping.md)
