@@ -243,4 +243,4 @@ Remember, even a small conversation is progress!
 
 - [← Day 16 – Restaurant Conversation](day16-restaurant.md)
 - [Course Home – Spoken Kannada](readme.md)
-- Day 18 – Talking to Neighbours →
+- [Day 18 – Talking to Neighbours →](day18-neighbours.md)

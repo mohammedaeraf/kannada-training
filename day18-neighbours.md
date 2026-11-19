@@ -230,4 +230,4 @@ Remember: A small conversation is a great way to build confidence!
 
 - [← Day 17 – Vegetable & Fruit Shopping](day17-veg-fruits-shopping.md)
 - [Course Home – Spoken Kannada](readme.md)
-- Day 19 – Apartment & Security Conversations →
+- [Day 19 – Apartment & Security Conversations →](day18-neighbours.md)
