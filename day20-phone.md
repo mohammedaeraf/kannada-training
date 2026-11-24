@@ -50,7 +50,7 @@ By the end of this lesson, you should be able to:
 | Please give the phone to Ravi. | Dayavittu phone Ravi avarige kodi. |
 | Please wait a little. | Swalpa kaayiri. |
 | He is busy now. | Avaru eega busy iddaare. |
-| She is not at home. | Avaru maneyalli illa. |
+| She is not at home. | Avalu maneyalli illa. |
 | He will come later. | Avaru nantara baruttare. |
 | Please call again. | Dayavittu matte kare maadi. |
 | I will call you later. | Naanu nimge nantara kare maaduttene. |
