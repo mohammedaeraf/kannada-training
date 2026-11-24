@@ -43,7 +43,7 @@ By the end of this lesson, you should be able to:
 
 | English | Kannada Pronunciation |
 |---|---|
-| Hello, who is this? | Hello, yaaru maataduttiddiri? |
+| Hello, who is speaking? | Hello, yaaru maataduttiddiri? |
 | Who are you? | Neevu yaaru? |
 | I am Ravi speaking. | Naanu Ravi maataduttiddene. |
 | Is Ravi there? | Ravi iddaara? |
