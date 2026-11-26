@@ -4,7 +4,7 @@
 
 We have completed another week of learning Kannada! 🎉
 
-Today's lesson is a revision and speaking assessment covering *Days 15–20*.
+Today's lesson is a revision and speaking self-assessment covering *Days 15–20*.
 
 📚 *Topics Covered:*
 1️⃣ Auto & Taxi Conversations 🚕
@@ -17,7 +17,7 @@ Today's lesson is a revision and speaking assessment covering *Days 15–20*.
 🔗 *Lesson:*  
 https://github.com/mohammedaeraf/kannada-training/blob/master/day21-week3-revision.md
 
-📝 *Assessment: 50 Marks*
+📝 *Self Assessment: 50 Marks*
 
 - 5 Practical Speaking Activities – 50 Marks
 - Written translation practice included for additional revision.

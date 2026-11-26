@@ -10,7 +10,7 @@
 
 ## 🎯 Today's Goal
 
-Today is your Week 3 assessment!
+Today is your Week 3 Revision!
 
 You will revise and practise Kannada conversations related to:
 
@@ -218,7 +218,7 @@ Use English letters (Roman transliteration) only.
 
 ---
 
-## 5. Assessment & Scoring
+## 5. Self Assessment & Scoring
 
 | Assessment Area | Marks |
 |---|---:|
