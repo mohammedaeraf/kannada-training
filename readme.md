@@ -36,6 +36,15 @@ By the end of 30 days, we aim to:
 | 12  | Time and Daily                  | [Open Day 12](day12-time-and-routine.md)    |
 | 13  | Directions                      | [Open Day 13](day13-directions.md)          |
 | 14  | Week 2 Revision                 | [Open Day 14](day14-week2-revision.md)      |
+| 15  | Auto Taxi                       | [Open Day 15](day15-auto-taxi.md)           |
+| 16  | Restaurant                      | [Open Day 16](day16-restaurant.md)          |
+| 17  | Vegetables & Fruits Shopping    | [Open Day 17](day17-veg-fruits-shopping.md) |
+| 18  | Neighbours                      | [Open Day 18](day18-neighbours.md)          |
+| 19  | Apartment                       | [Open Day 19](day19-apartment.md)           |
+| 20  | Phone                           | [Open Day 20](day20-phone.md)               |
+| 21  | Week 3 Revision                 | [Open Day 21](day21-week3-revision.md)      |
+
+
 
 _More lessons will be added as we progress._
 
