@@ -23,13 +23,16 @@ Our *Week 3 Kannada Test* is scheduled as follows:
 - Kannada to English Translation
 - English to Kannada Translation
 
+📚 *Course Home (All Lessons):*  
+https://github.com/mohammedaeraf/kannada-training/blob/master/readme.md
+
 📌 *Preparation Tips:*
 - Revise all lessons from Day 15 to Day 20.
 - Practise speaking the sentences aloud.
 - Revise vocabulary and common expressions.
 - Practise writing Kannada using English letters (Roman transliteration).
 
-🎯 *The objective is to improve your practical Kannada communication skills.*
+🎯 The objective is to improve your practical Kannada communication skills.
 
 All the best! Keep practising! 😊
 
